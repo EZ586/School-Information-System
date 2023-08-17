@@ -1,0 +1,19 @@
+.container-course {
+    background-color: bisque;
+}
+
+.radio input + input {
+    margin-left: 40px;
+}
+
+.radio {
+    margin-top: 40px;
+    font-size: 18px;
+}
+
+
+
+
+
+
+

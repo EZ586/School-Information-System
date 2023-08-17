@@ -1,0 +1,12 @@
+.stu_course {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    margin-top: 10px;
+    padding-left: 20px;
+
+    border: rgb(255, 51, 0);
+    border-style: dotted;
+    background-color: antiquewhite;
+}

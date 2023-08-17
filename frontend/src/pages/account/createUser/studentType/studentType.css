@@ -1,0 +1,10 @@
+.student {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputFields {
+    display: flex;
+    gap: 12px;
+}

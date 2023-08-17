@@ -1,0 +1,33 @@
+.loginChoice {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    margin-top: 12%;
+    font-size: 30px;
+}
+
+.buttons button {
+    font-size: 20px;
+    height: 40px;
+    width: 90px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons button + button {
+    margin-left: 0.8rem;
+}
+
+.noAccount {
+    display: flex;
+    justify-content: center;
+}
+
+.noAccount a {
+    margin-left: 10px;
+    margin-top: 27px;
+}

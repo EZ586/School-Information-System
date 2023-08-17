@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    background-color: rgb(255, 122, 89);
+    height: 80px;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    
+    margin-left: 20px;
+    width: calc(100vw);
+    margin-right: auto;
+}
+
+.nav a {
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+a + a {
+    margin-left: 10px;
+}
+
+
+.buttonlayout {
+    margin-top: 10px;
+    margin-right: 20px;
+    align-items: right;
+    height: 24px;
+}
+

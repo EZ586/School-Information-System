@@ -1,0 +1,21 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.home h1 {
+    text-align: center;
+}
+
+.login-area {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.login-area a{
+    margin-top: 15px;
+    margin-left: 10px;
+}

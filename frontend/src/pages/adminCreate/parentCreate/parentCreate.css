@@ -1,0 +1,18 @@
+.parentContainer {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    background-color: bisque;
+}
+
+.parentCreation h1 {
+    margin-bottom: 10px;
+}
+
+.childAdd h1 {
+    margin-bottom: 10px;
+}
+
+.childForm p:not(:last-child) {
+    margin-bottom: 2px;
+}

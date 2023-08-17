@@ -1,0 +1,15 @@
+.login {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.inputValues {
+    align-self: center;
+
+}
+
+.validity {
+    padding-left: 170px;
+}

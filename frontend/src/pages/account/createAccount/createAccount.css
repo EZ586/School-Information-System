@@ -1,0 +1,23 @@
+.create_username {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.create_username input {
+    margin-top: 15px;
+    margin-left: 8px;
+    height: 20px;
+}
+
+.create_password {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.create_password input {
+    margin-top: 15px;
+    margin-left: 8px;
+    height: 20px;
+}
